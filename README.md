@@ -4,4 +4,4 @@ pizzas.
 
 For more information:
 
-<https://limpygnome.com/2016/10/16/the-importance-of-captcha-papa-rewards>
+<https://limpygnome.com/2016/10/16/the-importance-of-captcha-and-free-pizza>
